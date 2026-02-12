@@ -1,4 +1,4 @@
-# BlinkHub Mall
+# BlinkHub Mall    http://blinkhub.shop
 
 Frontend system design for a secure, identity-verified e-commerce platform.
 
